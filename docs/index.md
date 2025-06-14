@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Pinned Between Lines
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是一个只写书评的小站，记录我在英文小说中读到的共鸣和困惑。  
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+我读：
 
-## Project layout
+- 以男性角色为主的英文小说，尤其是 M/M、悬疑、侦探、创伤相关作品；
+- 偏爱节奏紧凑、心理描写细腻、情感拉扯真实的小说；
+- 基本只看HEA;
+- 没有雷情节，只有雷文笔。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+感谢你发现了我！

@@ -1,1 +1,41 @@
-site_name: My Docs
+site_name: Pinned Between Lines
+site_url: https://kawenerg.github.io/pinned_between_lines/
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: teal    # 主色（导航栏、链接）
+      accent: deep orange       # 强调色（按钮、选中项）
+      toggle:
+        icon: material/brightness-4
+        name: 切换深色模式
+    - scheme: slate       # 暗色模式方案
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: 切换浅色模式
+
+nav:
+  - 首页: index.md
+  - 文章:
+      - Hazard & Somerset:
+        - 系列介绍: reviews/hazard-and-somerset/index.md
+        - Pretty Pretty Boys: reviews/hazard-and-somerset/pretty-pretty-boys.md
+        - Transposition: reviews/hazard-and-somerset/transposition.md
+        - Paternity Case: reviews/hazard-and-somerset/paternity-case.md
+        - Guilt by Association: reviews/hazard-and-somerset/guilt-by-association.md
+      - Seven of Spades:
+        - 系列介绍: reviews/seven-of-spades/index.md
+        - Kill Game: reviews/seven-of-spades/kill-game.md
+        - Trick Roller: reviews/seven-of-spades/trick-roller.md
+      - 其他:
+        - Saving Him: reviews/others/saving-him.md
+  - 关于本站: about.md
