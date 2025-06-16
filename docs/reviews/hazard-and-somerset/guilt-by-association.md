@@ -1,6 +1,7 @@
-# Guilt by Association by Gregory Ashe
+# Guilt by Association 
+_by Gregory Ashe_
 
-系列文第四部
+_系列文第四部_ 
 
 **9.5/10**
 
@@ -22,9 +23,11 @@ Hazard和Nico的分手几乎是注定的：性格爱好不合拍，生活阅历�
 
 这一本的推拉堪称极致，看完大呼过瘾，kindle笔记密密麻麻都是我的哀嚎尖叫和傻笑，现在重温还是能回忆起初读的颤栗。我已经彻底掉进格力高老师的大坑了。
 
+*******
+
 最后摘录一段最喜欢的片段。
 
-（前情提要：Somers情人节之夜被前妻暴击，Cora姐姐直接点明去找你真正的爱人吧。Somers纠结过后决定直接去找Hazard摊牌，却发现他正在前男友Nico家门口可怜兮兮地蹲守，为Nico的新欢感到愤怒。）
+*前情提要：Somers情人节夜被Cora一语点破心事，他终于决定去找Hazard摊牌，结果却在Nico家门口找到Hazard可怜兮兮蹲坐街边，正为Nico的新欢黯然神伤。
 
 >“是啊，我昨晚和他吵架了。吵得很严重。我以为我想结束这段关系，我以为一个人会更好。但孤独实在太难熬了。我受够了孤独。我知道我很可怜，坐在这儿想着进去找他，想着他至少会听我说几句。我知道你怎么看我。”
 
@@ -38,10 +41,11 @@ Hazard和Nico的分手几乎是注定的：性格爱好不合拍，生活阅历�
 
 >“你根本不知道。你连一点都不知道。如果你知道哪怕一点——”
 
-Somers: You know nothing Jon Snow!!!
+<span style="color:#1e88e5">_Somers: You know nothing Jon Snow!!!_</span>
 
-（然后Nico家忽然有了动静，Hazard注意力被吸走，Somers最后还是没有坦白。）
+*然后Nico家忽然有了动静，Hazard注意力被吸走，Somers最终还是没能说出口。
 
-（当时我好恨啊！）
+（当时我好恨啊！🥲）
 
+<div style="height: 8rem;"></div>
 
