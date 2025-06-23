@@ -7,6 +7,7 @@ Audiblez是一个使用Kokoro文本转语音模型的免费开源项目。最新
 
 缺点：安装略繁琐，对设备有一定要求。转换速度略慢，生成音频文件容量大，需要进一步压缩携带。
 
+[官方Github: https://github.com/santinic/audiblez](https://github.com/santinic/audiblez)
 
 本文目标：一步步完成 AudibleZ 安装。
 
