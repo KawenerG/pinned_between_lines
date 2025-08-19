@@ -65,7 +65,7 @@ choco install -y espeak-ng
 安装完毕后，输入以下命令检查是否安装成功：
 
 ```powershell
-espeak-ng -version
+espeak-ng --version
 ```
 能看到版本号即成功。
 
@@ -74,7 +74,7 @@ espeak-ng -version
 
 由于最新版本的python是v13，但audiblez适用于较老版本python(<=12)，安装时需要**指定版本号**
 
-1\. 在powershell（管理员身份运行）中粘贴下面这行命令安装ffmpeg，然后按下 Enter：
+1\. 在powershell（管理员身份运行）中粘贴下面这行命令安装python，然后按下 Enter：
 
 ```powershell
 choco install python --version=3.12.9
